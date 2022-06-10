@@ -27,5 +27,6 @@ Aqui tem um pouquinho sobre meu progresso e sobre as principais linguagens que u
   <a href="https://www.linkedin.com/in/gabrielleosouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/souzagabrielle" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
-
+<br>
+<br>
 (este repositório ainda esta em construção/sofrendo ajustes, desculpe a bagunça! :hammer_and_wrench:
