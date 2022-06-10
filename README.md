@@ -1,4 +1,4 @@
-### Oi, pessoal! 👋 
+### Oi, pessoal! and i think that's beautiful 
 Aqui tem um pouquinho sobre meu progresso e sobre as principais linguagens que utilizo:
 
 <div align="center">
@@ -28,3 +28,4 @@ Aqui tem um pouquinho sobre meu progresso e sobre as principais linguagens que u
   <a href="https://t.me/souzagabrielle" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
+(este repositório ainda esta em construção/sofrendo ajustes, desculpe a bagunça! :hammer_and_wrench:
