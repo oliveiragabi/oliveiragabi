@@ -29,4 +29,4 @@ Aqui tem um pouquinho sobre meu progresso e sobre as principais linguagens que u
 </div>
 <br>
 <br>
-(este repositório ainda esta em construção/sofrendo ajustes, desculpe a bagunça! :hammer_and_wrench:
+(obs: este repositório ainda esta em construção/sofrendo ajustes, desculpe a bagunça! :hammer_and_wrench:)
